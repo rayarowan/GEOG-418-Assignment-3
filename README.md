@@ -14,11 +14,11 @@ When a package is installed using the function intsall.packages("package") it is
 
 ```{r Libraries, echo=TRUE, eval=TRUE, message=FALSE, warning=FALSE}
 # Install packages if not already installed:
-# install.packages("knitr")
-# install.packages("tmap")
-# install.packages("spdep")
-# install.packages("raster")
-# install.packages("e1071")
+install.packages("knitr")
+install.packages("tmap")
+install.packages("spdep")
+install.packages("raster")
+install.packages("e1071")
 
 #Load in libraries:
 library("knitr")
