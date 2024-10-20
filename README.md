@@ -2,7 +2,7 @@
 
 By Raya Rowan
 
-October, 2024
+October 19, 2024
 
 ## Introduction
 
